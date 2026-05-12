@@ -21,7 +21,7 @@ Raw text from the internet is messy. It contains HTML tags, emojis, contractions
 - ✅ Loading and exploring a **real-world Kaggle dataset** (50,000 reviews)
 - ✅ Implementing **8 preprocessing techniques** with detailed explanations
 - ✅ **Comparing Stemming vs Lemmatization** using actual IMDb review words
-- ✅ Measuring **vocabulary reduction** (47.6% achieved)
+- ✅ Measuring **vocabulary reduction** 
 - ✅ Validating preprocessing impact with **sentiment classification** (0.48% improvement)
 - ✅ **Critical analysis** of each technique — what works, what fails, and why
 - ✅ Complete **Google Colab notebook** with all code and outputs
